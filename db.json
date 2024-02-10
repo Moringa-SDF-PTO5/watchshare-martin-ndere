@@ -1,0 +1,34 @@
+{
+"movie list":
+[
+    {
+        "title": "EAT",
+        "genre": "Thriller",
+        "director": "Martin Ndere",
+        "year": 2021,
+        "costshare": 10,
+        "rating": 4.5,
+        "image": "https://static.wixstatic.com/media/3170ac_9bc49060e9c44949918ae3703c10b554~mv2.png/v1/fill/w_939,h_528,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Title2.png"
+
+
+    },
+    {
+        "title": "Mpenzi",
+        "genre": "Thriller",
+        "director": "Martin Ndere",
+        "year": 2008,
+        "costshare": 12,
+        "rating": 4.7,
+        "image": "https://static.wixstatic.com/media/3170ac_3c9c5bdbbed9441d872cb27cf97d28c1~mv2.png/v1/fill/w_642,h_361,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/house%205.png"
+    },
+    {
+        "title": "Shift",
+        "genre": "Sci-Fi",
+        "director": "Martin Ndere",
+        "year": 2014,
+        "costshare": 11,
+        "rating": 4.6,
+        "image": "https://static.wixstatic.com/media/3170ac_d8562f73429545a8954c83199b8a60e2~mv2.png/v1/fill/w_642,h_361,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/gallery.png"
+    }
+]
+}
